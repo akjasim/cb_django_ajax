@@ -1,4 +1,4 @@
-# Django Ajax Tutorial in Malayalam | Form Submission | Database | JSON Response | Explained with Example
+# Django Ajax Tutorial | Form Submission | Database | JSON Response | Explained with Example
 
 ## English Version : https://youtu.be/bxeEmGOR2V8
 
