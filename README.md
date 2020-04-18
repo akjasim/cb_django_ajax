@@ -10,7 +10,7 @@ In this video, I'm gonna be showing you how to use Ajax with Django. We will do 
 
 Please don't forget to subscribe Code Band.. :)
 
-jQuery CDN Snippet: 
+## jQuery CDN Snippet: 
 ```
 <script
         src="https://code.jquery.com/jquery-3.5.0.min.js"
